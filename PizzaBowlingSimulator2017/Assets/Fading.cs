@@ -11,28 +11,37 @@ public class Fading : MonoBehaviour
     {
         Instance = this;
         image = GetComponentInChildren<Image>();
-        StartCoroutine(lessAlphaEnumerator());
+        FadeIn(3f);
+    }
+    protected IEnumerator FadeInCoroutine(float fadingSpeed)
+    {
+        while (image.color.a > 0.01f)
+        {
+            image.color = Color.Lerp(image.color, new Color(0, 0, 0, 0), fadingSpeed * 0.017f);
+
+            yield return new WaitForSeconds(0.017f);
+        }
+        image.color = new Color(0, 0, 0, 0);
     }
 
-    public IEnumerator moreAlphaEnumerator()
+    public void FadeIn(float fadeTime)
     {
-        while (true)
-        {
-            image.color += new Color(image.color.r, image.color.g, image.color.b, image.color.a + 0.07f * 100);
-            if (image.color.a >= 1)
-                break;
-            yield return new WaitForSeconds(0.5f);
-        }
+        StartCoroutine(FadeInCoroutine(1 / fadeTime));
     }
 
-    public IEnumerator lessAlphaEnumerator()
+    IEnumerator FadeOutCoroutine(float fadingSpeed, Color endColor)
     {
-        while (true)
+        while (image.color.a < endColor.a - 0.01f)
         {
-            image.color += new Color(image.color.r, image.color.g, image.color.b, image.color.a - 0.07f * 100);
-            if (image.color.a <= 0)
-                break;
-            yield return new WaitForSeconds(0.5f);
+            image.color = Color.Lerp(image.color, endColor, fadingSpeed * 0.017f);
+
+            yield return new WaitForSeconds(0.017f);
         }
+        image.color = endColor;
+    }
+
+    public void FadeOut(float fadeTime, Color endColor)
+    {
+        StartCoroutine(FadeOutCoroutine(1 / fadeTime, endColor));
     }
 }

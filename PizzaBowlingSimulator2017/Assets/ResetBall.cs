@@ -36,7 +36,7 @@ public class ResetBall : MonoBehaviour
     private void ChangeScene(object sender, ClickedEventArgs e)
     {
         Invoke("change", 3f);
-        Fading.Instance.StartCoroutine("lessAlphaEnumerator");
+        Fading.Instance.FadeOut(3f,Color.black);
     }
 
     private static void change()
