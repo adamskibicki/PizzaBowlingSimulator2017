@@ -23,10 +23,5 @@
             base.Start();
             rotator = transform.Find("Capsule");
         }
-
-        protected override void Update()
-        {
-            rotator.transform.Rotate(new Vector3(Time.deltaTime, 0f, 0f));
-        }
     }
 }

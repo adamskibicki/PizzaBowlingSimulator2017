@@ -4,10 +4,13 @@ using UnityEngine.SceneManagement;
 
 public class MySceneManagement : MonoBehaviour
 {
-    void ChangeScene()
+    public void ChangeScene()
     {
         if (SceneManager.GetActiveScene().name == "Final3")
         {
+            GameObject pizza = GameObject.FindGameObjectWithTag("Pizza");
+            pizza.transform.parent = null;
+            DontDestroyOnLoad(pizza);
             SceneManager.LoadScene("LookingAtPizza");
         }
         else
