@@ -26,11 +26,6 @@ public class ResetBall : MonoBehaviour
     private void reset(object sender, ClickedEventArgs e)
     {
         transform.position = new Vector3(0.887f, 0.725f, -14.47f);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+        GetComponent<Rigidbody>().velocity = Vector3.zero;
     }
 }
