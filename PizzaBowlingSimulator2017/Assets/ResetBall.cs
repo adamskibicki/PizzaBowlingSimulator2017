@@ -39,7 +39,7 @@ public class ResetBall : MonoBehaviour
         Fading.Instance.FadeOut(3f,Color.black);
     }
 
-    private static void change()
+    private void change()
     {
         GameObject.FindWithTag("GameController").GetComponent<MySceneManagement>().ChangeScene();
     }
