@@ -1,22 +1,21 @@
 ﻿namespace VRTK.Examples
 {
+    // Uwaga przerobiony !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     using UnityEngine;
 
     public class Whirlygig : VRTK_InteractableObject
     {
-        float spinSpeed = 0f;
         Transform rotator;
 
         public override void StartUsing(GameObject usingObject)
         {
             base.StartUsing(usingObject);
-            spinSpeed = 360f;
+            GetComponent<ChangeImage>().ChangeImageNow();
         }
 
         public override void StopUsing(GameObject usingObject)
         {
             base.StopUsing(usingObject);
-            spinSpeed = 0f;
         }
 
         protected override void Start()
@@ -27,7 +26,7 @@
 
         protected override void Update()
         {
-            rotator.transform.Rotate(new Vector3(spinSpeed * Time.deltaTime, 0f, 0f));
+            rotator.transform.Rotate(new Vector3(Time.deltaTime, 0f, 0f));
         }
     }
 }
