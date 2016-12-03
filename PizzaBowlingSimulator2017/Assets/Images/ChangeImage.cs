@@ -3,12 +3,12 @@ using System.Collections;
 
 public class ChangeImage : MonoBehaviour
 {
-    public UnityEngine.UI.Image img;
-    public Texture2D texture;
+    public GameObject img;
+    public Sprite texture;
     
     public void ChangeImageNow()
     {
-        img.material.mainTexture = texture;
+        img.GetComponent<UnityEngine.UI.Image>().overrideSprite = texture;
     }
 
 }
