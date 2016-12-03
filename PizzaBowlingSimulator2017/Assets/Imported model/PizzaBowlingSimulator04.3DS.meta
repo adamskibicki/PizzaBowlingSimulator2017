@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: 7404a1b90cd6f8644b6134b063ad568b
+timeCreated: 1480777038
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 01e10 sof0
+    100002: 01e10 sof1
+    100004: 01e10 sof2
+    100006: 01e10 sof3
+    100008: 01e10 sof4
+    100010: 01e10 sof5
+    100012: 01e10 sof6
+    100014: 01e10 sofa
+    100016: ___GDLM1_M
+    100018: Box007
+    100020: Box008
+    100022: Box009
+    100024: Box010
+    100026: Box011
+    100028: Box012
+    100030: Box013
+    100032: Box014
+    100034: Box015
+    100036: Box016
+    100038: Box017
+    100040: Box018
+    100042: Box019
+    100044: Box020
+    100046: Box021
+    100048: Box022
+    100050: Box023
+    100052: Box024
+    100054: Box025
+    100056: Box026
+    100058: Box027
+    100060: Box028
+    100062: Box029
+    100064: Box030
+    100066: Box031
+    100068: Box032
+    100070: Box033
+    100072: Box034
+    100074: Box035
+    100076: Box036
+    100078: Box037
+    100080: Box038
+    100082: Box039
+    100084: Box040
+    100086: Box041
+    100088: Box042
+    100090: Box043
+    100092: Box044
+    100094: Box045
+    100096: Box046
+    100098: Box047
+    100100: Box048
+    100102: Box049
+    100104: Box050
+    100106: Box051
+    100108: Box052
+    100110: Box053
+    100112: Box054
+    100114: Box055
+    100116: Cylinder00
+    100118: Cylinder01
+    100120: Cylinder02
+    100122: Cylinder03
+    100124: Cylinder04
+    100126: Cylinder05
+    100128: Cylinder06
+    100130: Cylinder07
+    100132: Cylinder08
+    100134: Cylinder09
+    100136: Cylinder10
+    100138: Cylinder11
+    100140: Cylinder12
+    100142: Cylinder13
+    100144: floor
+    100146: Group002
+    100148: Group003
+    100150: Group004
+    100152: Group005
+    100154: Group006
+    100156: Group007
+    100158: Group008
+    100160: Group009
+    100162: Group01
+    100164: Group010
+    100166: Group011
+    100168: Group012
+    100170: Group013
+    100172: Group014
+    100174: Group015
+    100176: Group016
+    100178: nojki kr10
+    100180: nojki kr11
+    100182: nojki kr12
+    100184: nojki kr13
+    100186: nojki kr14
+    100188: nojki kri0
+    100190: nojki kri1
+    100192: nojki kri2
+    100194: nojki kri3
+    100196: nojki kri4
+    100198: nojki kri5
+    100200: nojki kri6
+    100202: nojki kri7
+    100204: nojki kri8
+    100206: nojki kri9
+    100208: nojki kriv
+    100210: nojki001
+    100212: nojki002
+    100214: nojki003
+    100216: nojki004
+    100218: nojki005
+    100220: nojki006
+    100222: nojki007
+    100224: nojki008
+    100226: nojki009
+    100228: nojki010
+    100230: nojki011
+    100232: nojki012
+    100234: nojki013
+    100236: nojki014
+    100238: nojki015
+    100240: nojki016
+    100242: Object001
+    100244: Object002
+    100246: Object0034
+    100248: Pepper_yel
+    100250: //RootNode
+    100252: Plane001
+    100254: Plane002
+    100256: Plane003
+    100258: Rectang100
+    100260: Rectang101
+    100262: Rectang102
+    100264: Rectang103
+    100266: Rectang104
+    100268: Rectang105
+    100270: Rectang106
+    100272: Rectang107
+    100274: Rectang108
+    100276: Rectang109
+    100278: Rectang110
+    100280: Rectang111
+    100282: Rectang112
+    100284: Rectang113
+    100286: Rectang114
+    100288: Rectang115
+    100290: Rectang116
+    100292: Rectang117
+    100294: Rectang118
+    100296: Rectang119
+    100298: Rectang120
+    100300: Rectang121
+    100302: Rectang122
+    100304: Rectang123
+    100306: Rectang124
+    100308: Rectang125
+    100310: Rectang126
+    100312: Rectang127
+    100314: Rectangl10
+    100316: Rectangl11
+    100318: Rectangl12
+    100320: Rectangl13
+    100322: Rectangl14
+    100324: Rectangl15
+    100326: Rectangl16
+    100328: Rectangl17
+    100330: Rectangl18
+    100332: Rectangl19
+    100334: Rectangl20
+    100336: Rectangl21
+    100338: Rectangl22
+    100340: Rectangl23
+    100342: Rectangl24
+    100344: Rectangl25
+    100346: Rectangl26
+    100348: Rectangl27
+    100350: Rectangl28
+    100352: Rectangl29
+    100354: Rectangl30
+    100356: Rectangl31
+    100358: Rectangl32
+    100360: Rectangl33
+    100362: Rectangl34
+    100364: Rectangl35
+    100366: Rectangl36
+    100368: Rectangl37
+    100370: Rectangl38
+    100372: Rectangl39
+    100374: Rectangl40
+    100376: Rectangl41
+    100378: Rectangl42
+    100380: Rectangl43
+    100382: Rectangl44
+    100384: Rectangl45
+    100386: Rectangl46
+    100388: Rectangl47
+    100390: Rectangl48
+    100392: Rectangl49
+    100394: Rectangl50
+    100396: Rectangl51
+    100398: Rectangl52
+    100400: Rectangl53
+    100402: Rectangl54
+    100404: Rectangl55
+    100406: Rectangl56
+    100408: Rectangl57
+    100410: Rectangl58
+    100412: Rectangl59
+    100414: Rectangl60
+    100416: Rectangl61
+    100418: Rectangl62
+    100420: Rectangl63
+    100422: Rectangl64
+    100424: Rectangl65
+    100426: Rectangl66
+    100428: Rectangl67
+    100430: Rectangl68
+    100432: Rectangl69
+    100434: Rectangl70
+    100436: Rectangl71
+    100438: Rectangl72
+    100440: Rectangl73
+    100442: Rectangl74
+    100444: Rectangl75
+    100446: Rectangl76
+    100448: Rectangl77
+    100450: Rectangl78
+    100452: Rectangl79
+    100454: Rectangl80
+    100456: Rectangl81
+    100458: Rectangl82
+    100460: Rectangl83
+    100462: Rectangl84
+    100464: Rectangl85
+    100466: Rectangl86
+    100468: Rectangl87
+    100470: Rectangl88
+    100472: Rectangl89
+    100474: Rectangl90
+    100476: Rectangl91
+    100478: Rectangl92
+    100480: Rectangl93
+    100482: Rectangl94
+    100484: Rectangl95
+    100486: Rectangl96
+    100488: Rectangl97
+    100490: Rectangl98
+    100492: Rectangl99
+    100494: Rectangle0
+    100496: Rectangle1
+    100498: Rectangle2
+    100500: Rectangle3
+    100502: Rectangle4
+    100504: Rectangle5
+    100506: Rectangle6
+    100508: Rectangle7
+    100510: Rectangle8
+    100512: Rectangle9
+    100514: roof
+    100516: Sphere001
+    100518: Sphere002
+    100520: spinka001
+    100522: spinka002
+    100524: spinka003
+    100526: spinka004
+    100528: spinka005
+    100530: spinka006
+    100532: spinka007
+    100534: spinka008
+    100536: spinka009
+    100538: spinka010
+    100540: spinka011
+    100542: spinka012
+    100544: spinka013
+    100546: spinka014
+    100548: spinka015
+    100550: spinka016
+    100552: stul bar10
+    100554: stul bar11
+    100556: stul bar12
+    100558: stul bar13
+    100560: stul bar14
+    100562: 'stul barn '
+    100564: stul barn0
+    100566: stul barn1
+    100568: stul barn2
+    100570: stul barn3
+    100572: stul barn4
+    100574: stul barn5
+    100576: stul barn6
+    100578: stul barn7
+    100580: stul barn8
+    100582: stul barn9
+    100584: track
+    100586: zagotovk10
+    100588: zagotovk11
+    100590: zagotovk12
+    100592: zagotovk13
+    100594: zagotovk14
+    100596: zagotovk15
+    100598: zagotovka0
+    100600: zagotovka1
+    100602: zagotovka2
+    100604: zagotovka3
+    100606: zagotovka4
+    100608: zagotovka5
+    100610: zagotovka6
+    100612: zagotovka7
+    100614: zagotovka8
+    100616: zagotovka9
+    400000: 01e10 sof0
+    400002: 01e10 sof1
+    400004: 01e10 sof2
+    400006: 01e10 sof3
+    400008: 01e10 sof4
+    400010: 01e10 sof5
+    400012: 01e10 sof6
+    400014: 01e10 sofa
+    400016: ___GDLM1_M
+    400018: Box007
+    400020: Box008
+    400022: Box009
+    400024: Box010
+    400026: Box011
+    400028: Box012
+    400030: Box013
+    400032: Box014
+    400034: Box015
+    400036: Box016
+    400038: Box017
+    400040: Box018
+    400042: Box019
+    400044: Box020
+    400046: Box021
+    400048: Box022
+    400050: Box023
+    400052: Box024
+    400054: Box025
+    400056: Box026
+    400058: Box027
+    400060: Box028
+    400062: Box029
+    400064: Box030
+    400066: Box031
+    400068: Box032
+    400070: Box033
+    400072: Box034
+    400074: Box035
+    400076: Box036
+    400078: Box037
+    400080: Box038
+    400082: Box039
+    400084: Box040
+    400086: Box041
+    400088: Box042
+    400090: Box043
+    400092: Box044
+    400094: Box045
+    400096: Box046
+    400098: Box047
+    400100: Box048
+    400102: Box049
+    400104: Box050
+    400106: Box051
+    400108: Box052
+    400110: Box053
+    400112: Box054
+    400114: Box055
+    400116: Cylinder00
+    400118: Cylinder01
+    400120: Cylinder02
+    400122: Cylinder03
+    400124: Cylinder04
+    400126: Cylinder05
+    400128: Cylinder06
+    400130: Cylinder07
+    400132: Cylinder08
+    400134: Cylinder09
+    400136: Cylinder10
+    400138: Cylinder11
+    400140: Cylinder12
+    400142: Cylinder13
+    400144: floor
+    400146: Group002
+    400148: Group003
+    400150: Group004
+    400152: Group005
+    400154: Group006
+    400156: Group007
+    400158: Group008
+    400160: Group009
+    400162: Group01
+    400164: Group010
+    400166: Group011
+    400168: Group012
+    400170: Group013
+    400172: Group014
+    400174: Group015
+    400176: Group016
+    400178: nojki kr10
+    400180: nojki kr11
+    400182: nojki kr12
+    400184: nojki kr13
+    400186: nojki kr14
+    400188: nojki kri0
+    400190: nojki kri1
+    400192: nojki kri2
+    400194: nojki kri3
+    400196: nojki kri4
+    400198: nojki kri5
+    400200: nojki kri6
+    400202: nojki kri7
+    400204: nojki kri8
+    400206: nojki kri9
+    400208: nojki kriv
+    400210: nojki001
+    400212: nojki002
+    400214: nojki003
+    400216: nojki004
+    400218: nojki005
+    400220: nojki006
+    400222: nojki007
+    400224: nojki008
+    400226: nojki009
+    400228: nojki010
+    400230: nojki011
+    400232: nojki012
+    400234: nojki013
+    400236: nojki014
+    400238: nojki015
+    400240: nojki016
+    400242: Object001
+    400244: Object002
+    400246: Object0034
+    400248: Pepper_yel
+    400250: //RootNode
+    400252: Plane001
+    400254: Plane002
+    400256: Plane003
+    400258: Rectang100
+    400260: Rectang101
+    400262: Rectang102
+    400264: Rectang103
+    400266: Rectang104
+    400268: Rectang105
+    400270: Rectang106
+    400272: Rectang107
+    400274: Rectang108
+    400276: Rectang109
+    400278: Rectang110
+    400280: Rectang111
+    400282: Rectang112
+    400284: Rectang113
+    400286: Rectang114
+    400288: Rectang115
+    400290: Rectang116
+    400292: Rectang117
+    400294: Rectang118
+    400296: Rectang119
+    400298: Rectang120
+    400300: Rectang121
+    400302: Rectang122
+    400304: Rectang123
+    400306: Rectang124
+    400308: Rectang125
+    400310: Rectang126
+    400312: Rectang127
+    400314: Rectangl10
+    400316: Rectangl11
+    400318: Rectangl12
+    400320: Rectangl13
+    400322: Rectangl14
+    400324: Rectangl15
+    400326: Rectangl16
+    400328: Rectangl17
+    400330: Rectangl18
+    400332: Rectangl19
+    400334: Rectangl20
+    400336: Rectangl21
+    400338: Rectangl22
+    400340: Rectangl23
+    400342: Rectangl24
+    400344: Rectangl25
+    400346: Rectangl26
+    400348: Rectangl27
+    400350: Rectangl28
+    400352: Rectangl29
+    400354: Rectangl30
+    400356: Rectangl31
+    400358: Rectangl32
+    400360: Rectangl33
+    400362: Rectangl34
+    400364: Rectangl35
+    400366: Rectangl36
+    400368: Rectangl37
+    400370: Rectangl38
+    400372: Rectangl39
+    400374: Rectangl40
+    400376: Rectangl41
+    400378: Rectangl42
+    400380: Rectangl43
+    400382: Rectangl44
+    400384: Rectangl45
+    400386: Rectangl46
+    400388: Rectangl47
+    400390: Rectangl48
+    400392: Rectangl49
+    400394: Rectangl50
+    400396: Rectangl51
+    400398: Rectangl52
+    400400: Rectangl53
+    400402: Rectangl54
+    400404: Rectangl55
+    400406: Rectangl56
+    400408: Rectangl57
+    400410: Rectangl58
+    400412: Rectangl59
+    400414: Rectangl60
+    400416: Rectangl61
+    400418: Rectangl62
+    400420: Rectangl63
+    400422: Rectangl64
+    400424: Rectangl65
+    400426: Rectangl66
+    400428: Rectangl67
+    400430: Rectangl68
+    400432: Rectangl69
+    400434: Rectangl70
+    400436: Rectangl71
+    400438: Rectangl72
+    400440: Rectangl73
+    400442: Rectangl74
+    400444: Rectangl75
+    400446: Rectangl76
+    400448: Rectangl77
+    400450: Rectangl78
+    400452: Rectangl79
+    400454: Rectangl80
+    400456: Rectangl81
+    400458: Rectangl82
+    400460: Rectangl83
+    400462: Rectangl84
+    400464: Rectangl85
+    400466: Rectangl86
+    400468: Rectangl87
+    400470: Rectangl88
+    400472: Rectangl89
+    400474: Rectangl90
+    400476: Rectangl91
+    400478: Rectangl92
+    400480: Rectangl93
+    400482: Rectangl94
+    400484: Rectangl95
+    400486: Rectangl96
+    400488: Rectangl97
+    400490: Rectangl98
+    400492: Rectangl99
+    400494: Rectangle0
+    400496: Rectangle1
+    400498: Rectangle2
+    400500: Rectangle3
+    400502: Rectangle4
+    400504: Rectangle5
+    400506: Rectangle6
+    400508: Rectangle7
+    400510: Rectangle8
+    400512: Rectangle9
+    400514: roof
+    400516: Sphere001
+    400518: Sphere002
+    400520: spinka001
+    400522: spinka002
+    400524: spinka003
+    400526: spinka004
+    400528: spinka005
+    400530: spinka006
+    400532: spinka007
+    400534: spinka008
+    400536: spinka009
+    400538: spinka010
+    400540: spinka011
+    400542: spinka012
+    400544: spinka013
+    400546: spinka014
+    400548: spinka015
+    400550: spinka016
+    400552: stul bar10
+    400554: stul bar11
+    400556: stul bar12
+    400558: stul bar13
+    400560: stul bar14
+    400562: 'stul barn '
+    400564: stul barn0
+    400566: stul barn1
+    400568: stul barn2
+    400570: stul barn3
+    400572: stul barn4
+    400574: stul barn5
+    400576: stul barn6
+    400578: stul barn7
+    400580: stul barn8
+    400582: stul barn9
+    400584: track
+    400586: zagotovk10
+    400588: zagotovk11
+    400590: zagotovk12
+    400592: zagotovk13
+    400594: zagotovk14
+    400596: zagotovk15
+    400598: zagotovka0
+    400600: zagotovka1
+    400602: zagotovka2
+    400604: zagotovka3
+    400606: zagotovka4
+    400608: zagotovka5
+    400610: zagotovka6
+    400612: zagotovka7
+    400614: zagotovka8
+    400616: zagotovka9
+    2300000: 01e10 sof0
+    2300002: 01e10 sof1
+    2300004: 01e10 sof2
+    2300006: 01e10 sof3
+    2300008: 01e10 sof4
+    2300010: 01e10 sof5
+    2300012: 01e10 sof6
+    2300014: 01e10 sofa
+    2300016: ___GDLM1_M
+    2300018: Box007
+    2300020: Box008
+    2300022: Box009
+    2300024: Box010
+    2300026: Box011
+    2300028: Box012
+    2300030: Box013
+    2300032: Box014
+    2300034: Box015
+    2300036: Box016
+    2300038: Box017
+    2300040: Box018
+    2300042: Box019
+    2300044: Box020
+    2300046: Box021
+    2300048: Box022
+    2300050: Box023
+    2300052: Box024
+    2300054: Box025
+    2300056: Box026
+    2300058: Box027
+    2300060: Box028
+    2300062: Box029
+    2300064: Box030
+    2300066: Box031
+    2300068: Box032
+    2300070: Box033
+    2300072: Box034
+    2300074: Box035
+    2300076: Box036
+    2300078: Box037
+    2300080: Box038
+    2300082: Box039
+    2300084: Box040
+    2300086: Box041
+    2300088: Box042
+    2300090: Box043
+    2300092: Box044
+    2300094: Box045
+    2300096: Box046
+    2300098: Box047
+    2300100: Box048
+    2300102: Box049
+    2300104: Box050
+    2300106: Box051
+    2300108: Box052
+    2300110: Box053
+    2300112: Box054
+    2300114: Box055
+    2300116: Cylinder00
+    2300118: Cylinder01
+    2300120: Cylinder02
+    2300122: Cylinder03
+    2300124: Cylinder04
+    2300126: Cylinder05
+    2300128: Cylinder06
+    2300130: Cylinder07
+    2300132: Cylinder08
+    2300134: Cylinder09
+    2300136: Cylinder10
+    2300138: Cylinder11
+    2300140: Cylinder12
+    2300142: Cylinder13
+    2300144: floor
+    2300146: Object001
+    2300148: Object002
+    2300150: Object0034
+    2300152: Pepper_yel
+    2300154: Plane001
+    2300156: Plane002
+    2300158: Plane003
+    2300160: Rectang100
+    2300162: Rectang101
+    2300164: Rectang102
+    2300166: Rectang103
+    2300168: Rectang104
+    2300170: Rectang105
+    2300172: Rectang106
+    2300174: Rectang107
+    2300176: Rectang108
+    2300178: Rectang109
+    2300180: Rectang110
+    2300182: Rectang111
+    2300184: Rectang112
+    2300186: Rectang113
+    2300188: Rectang114
+    2300190: Rectang115
+    2300192: Rectang116
+    2300194: Rectang117
+    2300196: Rectang118
+    2300198: Rectang119
+    2300200: Rectang120
+    2300202: Rectang121
+    2300204: Rectang122
+    2300206: Rectang123
+    2300208: Rectang124
+    2300210: Rectang125
+    2300212: Rectang126
+    2300214: Rectang127
+    2300216: Rectangl10
+    2300218: Rectangl11
+    2300220: Rectangl12
+    2300222: Rectangl13
+    2300224: Rectangl14
+    2300226: Rectangl15
+    2300228: Rectangl16
+    2300230: Rectangl17
+    2300232: Rectangl18
+    2300234: Rectangl19
+    2300236: Rectangl20
+    2300238: Rectangl21
+    2300240: Rectangl22
+    2300242: Rectangl23
+    2300244: Rectangl24
+    2300246: Rectangl25
+    2300248: Rectangl26
+    2300250: Rectangl27
+    2300252: Rectangl28
+    2300254: Rectangl29
+    2300256: Rectangl30
+    2300258: Rectangl31
+    2300260: Rectangl32
+    2300262: Rectangl33
+    2300264: Rectangl34
+    2300266: Rectangl35
+    2300268: Rectangl36
+    2300270: Rectangl37
+    2300272: Rectangl38
+    2300274: Rectangl39
+    2300276: Rectangl40
+    2300278: Rectangl41
+    2300280: Rectangl42
+    2300282: Rectangl43
+    2300284: Rectangl44
+    2300286: Rectangl45
+    2300288: Rectangl46
+    2300290: Rectangl47
+    2300292: Rectangl48
+    2300294: Rectangl49
+    2300296: Rectangl50
+    2300298: Rectangl51
+    2300300: Rectangl52
+    2300302: Rectangl53
+    2300304: Rectangl54
+    2300306: Rectangl55
+    2300308: Rectangl56
+    2300310: Rectangl57
+    2300312: Rectangl58
+    2300314: Rectangl59
+    2300316: Rectangl60
+    2300318: Rectangl61
+    2300320: Rectangl62
+    2300322: Rectangl63
+    2300324: Rectangl64
+    2300326: Rectangl65
+    2300328: Rectangl66
+    2300330: Rectangl67
+    2300332: Rectangl68
+    2300334: Rectangl69
+    2300336: Rectangl70
+    2300338: Rectangl71
+    2300340: Rectangl72
+    2300342: Rectangl73
+    2300344: Rectangl74
+    2300346: Rectangl75
+    2300348: Rectangl76
+    2300350: Rectangl77
+    2300352: Rectangl78
+    2300354: Rectangl79
+    2300356: Rectangl80
+    2300358: Rectangl81
+    2300360: Rectangl82
+    2300362: Rectangl83
+    2300364: Rectangl84
+    2300366: Rectangl85
+    2300368: Rectangl86
+    2300370: Rectangl87
+    2300372: Rectangl88
+    2300374: Rectangl89
+    2300376: Rectangl90
+    2300378: Rectangl91
+    2300380: Rectangl92
+    2300382: Rectangl93
+    2300384: Rectangl94
+    2300386: Rectangl95
+    2300388: Rectangl96
+    2300390: Rectangl97
+    2300392: Rectangl98
+    2300394: Rectangl99
+    2300396: Rectangle0
+    2300398: Rectangle1
+    2300400: Rectangle2
+    2300402: Rectangle3
+    2300404: Rectangle4
+    2300406: Rectangle5
+    2300408: Rectangle6
+    2300410: Rectangle7
+    2300412: Rectangle8
+    2300414: Rectangle9
+    2300416: roof
+    2300418: Sphere001
+    2300420: Sphere002
+    2300422: track
+    2300424: zagotovk10
+    2300426: zagotovk11
+    2300428: zagotovk12
+    2300430: zagotovk13
+    2300432: zagotovk14
+    2300434: zagotovk15
+    2300436: zagotovka0
+    2300438: zagotovka1
+    2300440: zagotovka2
+    2300442: zagotovka3
+    2300444: zagotovka4
+    2300446: zagotovka5
+    2300448: zagotovka6
+    2300450: zagotovka7
+    2300452: zagotovka8
+    2300454: zagotovka9
+    3300000: 01e10 sof0
+    3300002: 01e10 sof1
+    3300004: 01e10 sof2
+    3300006: 01e10 sof3
+    3300008: 01e10 sof4
+    3300010: 01e10 sof5
+    3300012: 01e10 sof6
+    3300014: 01e10 sofa
+    3300016: ___GDLM1_M
+    3300018: Box007
+    3300020: Box008
+    3300022: Box009
+    3300024: Box010
+    3300026: Box011
+    3300028: Box012
+    3300030: Box013
+    3300032: Box014
+    3300034: Box015
+    3300036: Box016
+    3300038: Box017
+    3300040: Box018
+    3300042: Box019
+    3300044: Box020
+    3300046: Box021
+    3300048: Box022
+    3300050: Box023
+    3300052: Box024
+    3300054: Box025
+    3300056: Box026
+    3300058: Box027
+    3300060: Box028
+    3300062: Box029
+    3300064: Box030
+    3300066: Box031
+    3300068: Box032
+    3300070: Box033
+    3300072: Box034
+    3300074: Box035
+    3300076: Box036
+    3300078: Box037
+    3300080: Box038
+    3300082: Box039
+    3300084: Box040
+    3300086: Box041
+    3300088: Box042
+    3300090: Box043
+    3300092: Box044
+    3300094: Box045
+    3300096: Box046
+    3300098: Box047
+    3300100: Box048
+    3300102: Box049
+    3300104: Box050
+    3300106: Box051
+    3300108: Box052
+    3300110: Box053
+    3300112: Box054
+    3300114: Box055
+    3300116: Cylinder00
+    3300118: Cylinder01
+    3300120: Cylinder02
+    3300122: Cylinder03
+    3300124: Cylinder04
+    3300126: Cylinder05
+    3300128: Cylinder06
+    3300130: Cylinder07
+    3300132: Cylinder08
+    3300134: Cylinder09
+    3300136: Cylinder10
+    3300138: Cylinder11
+    3300140: Cylinder12
+    3300142: Cylinder13
+    3300144: floor
+    3300146: Object001
+    3300148: Object002
+    3300150: Object0034
+    3300152: Pepper_yel
+    3300154: Plane001
+    3300156: Plane002
+    3300158: Plane003
+    3300160: Rectang100
+    3300162: Rectang101
+    3300164: Rectang102
+    3300166: Rectang103
+    3300168: Rectang104
+    3300170: Rectang105
+    3300172: Rectang106
+    3300174: Rectang107
+    3300176: Rectang108
+    3300178: Rectang109
+    3300180: Rectang110
+    3300182: Rectang111
+    3300184: Rectang112
+    3300186: Rectang113
+    3300188: Rectang114
+    3300190: Rectang115
+    3300192: Rectang116
+    3300194: Rectang117
+    3300196: Rectang118
+    3300198: Rectang119
+    3300200: Rectang120
+    3300202: Rectang121
+    3300204: Rectang122
+    3300206: Rectang123
+    3300208: Rectang124
+    3300210: Rectang125
+    3300212: Rectang126
+    3300214: Rectang127
+    3300216: Rectangl10
+    3300218: Rectangl11
+    3300220: Rectangl12
+    3300222: Rectangl13
+    3300224: Rectangl14
+    3300226: Rectangl15
+    3300228: Rectangl16
+    3300230: Rectangl17
+    3300232: Rectangl18
+    3300234: Rectangl19
+    3300236: Rectangl20
+    3300238: Rectangl21
+    3300240: Rectangl22
+    3300242: Rectangl23
+    3300244: Rectangl24
+    3300246: Rectangl25
+    3300248: Rectangl26
+    3300250: Rectangl27
+    3300252: Rectangl28
+    3300254: Rectangl29
+    3300256: Rectangl30
+    3300258: Rectangl31
+    3300260: Rectangl32
+    3300262: Rectangl33
+    3300264: Rectangl34
+    3300266: Rectangl35
+    3300268: Rectangl36
+    3300270: Rectangl37
+    3300272: Rectangl38
+    3300274: Rectangl39
+    3300276: Rectangl40
+    3300278: Rectangl41
+    3300280: Rectangl42
+    3300282: Rectangl43
+    3300284: Rectangl44
+    3300286: Rectangl45
+    3300288: Rectangl46
+    3300290: Rectangl47
+    3300292: Rectangl48
+    3300294: Rectangl49
+    3300296: Rectangl50
+    3300298: Rectangl51
+    3300300: Rectangl52
+    3300302: Rectangl53
+    3300304: Rectangl54
+    3300306: Rectangl55
+    3300308: Rectangl56
+    3300310: Rectangl57
+    3300312: Rectangl58
+    3300314: Rectangl59
+    3300316: Rectangl60
+    3300318: Rectangl61
+    3300320: Rectangl62
+    3300322: Rectangl63
+    3300324: Rectangl64
+    3300326: Rectangl65
+    3300328: Rectangl66
+    3300330: Rectangl67
+    3300332: Rectangl68
+    3300334: Rectangl69
+    3300336: Rectangl70
+    3300338: Rectangl71
+    3300340: Rectangl72
+    3300342: Rectangl73
+    3300344: Rectangl74
+    3300346: Rectangl75
+    3300348: Rectangl76
+    3300350: Rectangl77
+    3300352: Rectangl78
+    3300354: Rectangl79
+    3300356: Rectangl80
+    3300358: Rectangl81
+    3300360: Rectangl82
+    3300362: Rectangl83
+    3300364: Rectangl84
+    3300366: Rectangl85
+    3300368: Rectangl86
+    3300370: Rectangl87
+    3300372: Rectangl88
+    3300374: Rectangl89
+    3300376: Rectangl90
+    3300378: Rectangl91
+    3300380: Rectangl92
+    3300382: Rectangl93
+    3300384: Rectangl94
+    3300386: Rectangl95
+    3300388: Rectangl96
+    3300390: Rectangl97
+    3300392: Rectangl98
+    3300394: Rectangl99
+    3300396: Rectangle0
+    3300398: Rectangle1
+    3300400: Rectangle2
+    3300402: Rectangle3
+    3300404: Rectangle4
+    3300406: Rectangle5
+    3300408: Rectangle6
+    3300410: Rectangle7
+    3300412: Rectangle8
+    3300414: Rectangle9
+    3300416: roof
+    3300418: Sphere001
+    3300420: Sphere002
+    3300422: track
+    3300424: zagotovk10
+    3300426: zagotovk11
+    3300428: zagotovk12
+    3300430: zagotovk13
+    3300432: zagotovk14
+    3300434: zagotovk15
+    3300436: zagotovka0
+    3300438: zagotovka1
+    3300440: zagotovka2
+    3300442: zagotovka3
+    3300444: zagotovka4
+    3300446: zagotovka5
+    3300448: zagotovka6
+    3300450: zagotovka7
+    3300452: zagotovka8
+    3300454: zagotovka9
+    4300000: Plane001
+    4300002: Cylinder00
+    4300004: Cylinder01
+    4300006: track
+    4300008: floor
+    4300010: Object001
+    4300012: Sphere001
+    4300014: Cylinder02
+    4300016: Cylinder03
+    4300018: Plane002
+    4300020: Cylinder04
+    4300022: Object002
+    4300024: Plane003
+    4300026: 01e10 sofa
+    4300028: Rectangle0
+    4300030: Rectangle1
+    4300032: Box007
+    4300034: Box008
+    4300036: Box009
+    4300038: Rectangle2
+    4300040: Rectangle3
+    4300042: Rectangle4
+    4300044: Rectangle5
+    4300046: Rectangle6
+    4300048: zagotovka2
+    4300050: Rectangle7
+    4300052: Object0034
+    4300054: roof
+    4300056: Box055
+    4300058: Pepper_yel
+    4300060: ___GDLM1_M
+    4300062: Sphere002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
