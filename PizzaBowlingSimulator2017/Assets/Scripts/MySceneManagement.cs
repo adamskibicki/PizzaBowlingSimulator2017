@@ -22,3 +22,5 @@ public class MySceneManagement : MonoBehaviour
         }
     }
 }
+
+//Adam, spushuj~!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
