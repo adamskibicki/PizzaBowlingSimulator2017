@@ -4,6 +4,8 @@ using UnityEngine.SceneManagement;
 
 public class MySceneManagement : MonoBehaviour
 {
+
+
     public void ChangeScene()
     {
         if (SceneManager.GetActiveScene().name == "Final3")
